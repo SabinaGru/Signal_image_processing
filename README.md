@@ -5,6 +5,11 @@
 Dieses Projekt behandelt grundlegende Konzepte der **Bild- und Signalverarbeitung** anhand von drei praxisnahen Aufgaben. Ziel war es, Methoden der digitalen Signalverarbeitung sowie der Bildanalyse zu verstehen, anzuwenden und deren Wirkung zu untersuchen.
 
 ---
+Sources:
+- Sound, "Birds_Austria_Waldviertel:": https://freesound.org/people/noctaro/sounds/240290/
+- Image, "maja-kochanowska-YslVSKPZe0E-unsplash": https://unsplash.com/de/fotos/drei-personen-die-tagsuber-auf-dem-rock-mountain-klettern-YslVSKPZe0E
+- Music, "S.T.S -Fürstenfeld": https://www.youtube.com/watch?v=FpRmP0XUVcA
+---
 
 ## 🔊 Teil 1: Erkennung eines Vogelrufs in einer Audiodatei
 
